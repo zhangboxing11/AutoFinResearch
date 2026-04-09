@@ -1,0 +1,9 @@
+# 忽略密钥文件（极其重要！）
+.env
+
+# 忽略 Python 缓存和虚拟环境
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/git remote -v
